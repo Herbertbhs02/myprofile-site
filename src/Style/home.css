@@ -1,0 +1,15 @@
+.profilePicture{
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
+.parallax{
+    height: 160px;
+}
+
+.blockquote{
+    border-color:blue ;
+
+}
