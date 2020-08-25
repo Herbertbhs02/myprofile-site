@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import profilePicture4 from '../media/profilePicture4.png';
 import motherBoard from '../media/motherBoard.jpg';
 import city from '../media/city.jpg';
+import nodeLogo from '../media/nodeLogo.png';
+import reactLogo from '../media/reactLogo.png';
+import js from '../media/js.png';
+import milkyway from '../media/milkyway.jpg';
 import '../Style/home.css';
 import M from 'materialize-css/dist/js/materialize.min.js';
 
@@ -40,13 +44,17 @@ class Home extends Component {
                   </div>
                </div>
                 
-               <div className="row">
-               <div className="col 12 l8">
-               <img src={profilePicture4} alt="Photo"className="profilePicture"/>
+               <div className="row row grey lighten-3">
+               <div className="col 12 l8 ">
+               <img src={reactLogo} alt="react"className="logo"/>
+               <img src={nodeLogo} alt="node"className="logo"/>
+               <img src={js} alt="js"className="logo"/>
                </div>
                <div class="col s12 l4 pull-l3">
-               <h2 class="indigo-text text-darken-4">Herbert Ssevume</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit elit nec, tincidunt orci.</p>
+               <h3 class="">Technology Stack</h3>
+               <blockquote className="blockquote">
+               <p className="left-align">HTML | CSS-Flexbox,Grid | Materialize | JavaScript | React | Redux | Nodejs | Express | MongoDB | Cypress--Automation Test | Github | AWS-Cloud.</p>
+               </blockquote>
              </div>
             </div> 
 
@@ -69,7 +77,7 @@ class Home extends Component {
 
                <div class="parallax-container parallax">
                <div class="parallax">
-                   <img src={motherBoard}  alt="" className="responsive-img" />
+                   <img src={milkyway}  alt="" className="responsive-img" />
                 </div>
              </div>
             </div>
