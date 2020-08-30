@@ -1,0 +1,9 @@
+.contact {
+    min-height: calc(92vh - 70px);
+  
+    margin-top: 10px;
+  }
+  .footer {
+    height: 50px;
+  }
+ 

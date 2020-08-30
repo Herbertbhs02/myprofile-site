@@ -26,6 +26,9 @@ render(){
       <li><a href="#"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Facebook">
         <i class="fab fa-facebook"></i>
       </a></li>
+      <li><a href="https://github.com/Herbertbhs02?tab=repositories" target="_blank"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="GitHub">
+      <i class="fab fa-link"></i>
+    </a></li>
       </ul>
     </div>
     </div>
