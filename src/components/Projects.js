@@ -42,7 +42,7 @@ import logo192 from '../media/logo192.png';
 
        <footer class="page-footer grey lighten-1 ">
        <div class="container">
-       © 2020 Copyright SEVDIGITAL
+       © 2020 Copyright SEVDIGITAL 
        </div>
        </footer>
 

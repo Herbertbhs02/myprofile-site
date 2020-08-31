@@ -33,7 +33,8 @@ class Home extends Component {
                   <h5>Full Stack Web Developer</h5>
                   <blockquote className="blockquote">
                   <p className="left-align">I am a freelance front-end and back-end web developer based in Basingstoke UK. 
-                  I am currently working on  my personal projects and continuously making improvement to make them more user friendly.</p>
+                  Building user-friendly websites and applications is truly a passion on mine. In addition to my knowledge base,
+                   I actively seek out new technologies and stay up-to-date on industry trends and advancements.</p>
                   </blockquote>
                 </div>
                </div>

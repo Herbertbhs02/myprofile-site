@@ -20,7 +20,7 @@ render(){
         <li><a href="https://www.linkedin.com/in/herbert-ssevume-a527b826/"  target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a></li>
-      <li><a href="https://twitter.com/home" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Twitter">
+      <li><a href="https://twitter.com/h_sev" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Twitter">
         <i class="fab fa-twitter"></i>
       </a></li>
       <li><a href="https://www.facebook.com/" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Facebook">
