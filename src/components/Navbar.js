@@ -9,7 +9,7 @@ import Social from './Social'
   return (
    <div className="navbar-fixed">
     <nav className="nav-wrapper  transparent">
-      <div className="container">
+      <div className="">
       <img src={sev_Logo} alt="logo"class="left logo"/>
       <Social/>
       <Links/>

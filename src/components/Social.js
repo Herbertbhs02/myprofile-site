@@ -17,16 +17,16 @@ render(){
     
      <div class="container ">
       <ul className="right .hide-on-small-only black-text">
-        <li><a href="#"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="LinkedIn">
+        <li><a href="https://www.linkedin.com/in/herbert-ssevume-a527b826/"  target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a></li>
-      <li><a href="#"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Twitter">
+      <li><a href="https://twitter.com/home" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Twitter">
         <i class="fab fa-twitter"></i>
       </a></li>
-      <li><a href="#"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Facebook">
+      <li><a href="https://www.facebook.com/" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Facebook">
         <i class="fab fa-facebook"></i>
       </a></li>
-      <li><a href="https://github.com/Herbertbhs02?tab=repositories" target="_blank"class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="GitHub">
+      <li><a href="https://github.com/Herbertbhs02?tab=repositories" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="GitHub">
       <i class="fab fa-link"></i>
     </a></li>
       </ul>

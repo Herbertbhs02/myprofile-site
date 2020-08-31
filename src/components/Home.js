@@ -33,7 +33,7 @@ class Home extends Component {
                   <h5>Full Stack Web Developer</h5>
                   <blockquote className="blockquote">
                   <p className="left-align">I am a freelance front-end and back-end web developer based in Basingstoke UK. 
-                  I am currently working on  my personal projects but also working as a freelance web developer.</p>
+                  I am currently working on  my personal projects and continuously making improvement to make them more user friendly.</p>
                   </blockquote>
                 </div>
                </div>
@@ -68,7 +68,7 @@ class Home extends Component {
 
             <div className="row">
                   <div className="col 12 l4">
-                    <h3 class="">Current Project summery</h3>
+                    <h3 class="">Current Projects summery</h3>
                   </div>
                   
                   <div class=" left-align col s12 l7 ">
@@ -76,7 +76,7 @@ class Home extends Component {
                      <p><b>Connectbambi:</b>For re-connecting people with lost old friends</p>
                      <p><b>Tech Blog:</b>For people to share and discuss about the latest technological development</p>
                      <p><b>E-commerce Demo:</b>Demonstration of  how online show room could be made more user friendly</p>
-                     <div className="blue-grey darken-3 white-text"><b>Please do click on the projects link in the nav bar on the top to see the projects</b></div>
+                     <div className="blue-grey darken-3 white-text"><b>Please click on the projects link in the nav bar which will route you to projects page.</b></div>
                    </blockquote>
                 </div>
                </div>

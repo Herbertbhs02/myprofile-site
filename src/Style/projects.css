@@ -1,0 +1,24 @@
+.projects {
+    min-height: calc(92vh - 70px);
+    margin-top: 10px;
+  }
+
+
+  .footer {
+    height: 50px;
+  }
+ 
+  .reactlog{
+    height: 4%;
+    width: 4%;
+         }
+
+         .box{
+            color:black;
+            height: 540px;
+            border-radius: 10px;
+            border: 3px solid blue;
+            box-shadow: 5px 4px rgb(83, 86, 90)
+        }  
+        
+        
