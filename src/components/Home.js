@@ -8,8 +8,6 @@ import js from '../media/js.png';
 import milkyway from '../media/milkyway.jpg';
 import awslogo from '../media/awslogo.png';
 import '../Style/home.css';
-//import 'materialize-css';
-//import 'materialize-css/dist/css/materialize.min.css'
 import M from 'materialize-css/dist/js/materialize.min.js';
 
 class Home extends Component {
@@ -93,8 +91,6 @@ class Home extends Component {
                © 2020 Copyright SEVDIGITAL
                </div>
              </footer>
-               
-
             </div>
         );
     }
