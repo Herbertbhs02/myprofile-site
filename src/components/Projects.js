@@ -18,6 +18,27 @@ import logo192 from '../media/logo192.png';
               </div>
               
               <div className="grey lighten-3 box left-align col 12s l6  ">
+              <h2>Church Website</h2>
+              <p><b>I developed the website using the following stack:</b></p>
+              <p>“The website has been developed using Node.js, EJS, and mongoDB.</p>
+                  <p><b>Dependencies used:</b> body-parser, ejs, express,and mongoose.
+                  Most of the javaScript logic is run on the server side, and that’s one of the advantages of using node.js to develop server side based web application."
+                  </p>
+                  <p>Please click on the link below to see the website</p>
+            <a href="https://ihpmusa.org/" target="_blank">ihpmusa.org</a>
+              </div>
+            
+              <div className="grey lighten-3 box left-align col 12s l6  ">
+              <h2>Accountancy Firm Website</h2>
+              <p><b>I developed the Frond end using React and materialize for styling.</b></p>
+              
+                  
+                  <p>Please click on the link below to see the website</p>
+            <a href="https://main.dxngakmedy5lj.amplifyapp.com/" target="_blank">site link</a>
+              </div>
+
+
+              <div className="grey lighten-3 box left-align col 12s l6  ">
               <h2>Web Tech blog</h2>
               <p><b>I developed the website using the following stack:</b></p>
               <p>“The website has been developed using Node.js, EJS, and mongoDB.</p>
