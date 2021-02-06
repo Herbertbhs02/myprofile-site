@@ -11,16 +11,27 @@ import logo192 from '../media/logo192.png';
               <img className='reactlog' src={logo192} alt="logo192" />
                 <h4><span style={{fontWeight:"bold"}}>Connect With Old Friends </span></h4>
                 <p>I developed this website to help people to reconnect with old friends.</p> 
-                <p><h4>Front-end developed with:</h4> React, JavaScript and Axios for asynchronous HTTP requests to REST endpoints.</p>
-                <p><h4>Back-end developed with:</h4> Nodejs, Express, Mongoose, jwtToken--authentication, bcrypt--password encryption, mongoDB and axios </p>
+                <p><h4>Front-end developed with:</h4> React.js</p>
+                <p><h4>Back-end developed with:</h4> Nodejs, Express, Mongoose, jwtToken--authentication, bcrypt--password encryption and mongoDB. </p>
                 <p>Please click on the link below to see the website</p>
               <a href="https://www.connectbambi.com/" target="_blank">connectbambi</a>
               </div>
               
+              <div className="grey lighten-3 box left-align col 12s l6 ">
+              <img className='reactlog' src={logo192} alt="logo192" />
+                <h4><span style={{fontWeight:"bold"}}>Online shopping website </span></h4>
+                <p>This is a demo website and its NOT used to sale any product. For testing purpose please use 4242....4242 as your credit card number.</p> 
+                <p><h4>Front-end developed with:</h4> React.js and AWS_S3 bucket Route 53, and Codepipeline</p>
+                <p><h4>Back-end developed with:</h4> Nodejs, Express, Mongoose mongoDB, EJS, AWS_Elastic Beanstalk and Codepipeline </p>
+                <p>EJS is used to create Admin interface rendered from the server side.</p>
+                <p>Please click on the link below to see the website</p>
+              <a href="http://sevtech.uk/" target="_blank">e-commerce</a>
+              </div>
+
               <div className="grey lighten-3 box left-align col 12s l6  ">
               <h2>Church Website</h2>
               <p><b>I developed the website using the following stack:</b></p>
-              <p>“The website has been developed using Node.js, EJS, and mongoDB.</p>
+              <p>“The website has been developed using Node.js, EJS, mongoDB and AWS_Elastic Beanstalk and Codepipeline.</p>
                   <p><b>Dependencies used:</b> body-parser, ejs, express,and mongoose.
                   Most of the javaScript logic is run on the server side, and that’s one of the advantages of using node.js to develop server side based web application."
                   </p>
@@ -31,6 +42,7 @@ import logo192 from '../media/logo192.png';
               <div className="grey lighten-3 box left-align col 12s l6  ">
               <h2>Accountancy Firm Website</h2>
               <p><b>I developed the Frond end using React and materialize for styling.</b></p>
+              <p><b>Hosted on AWS using AWS Amplify.</b></p>
               
                   
                   <p>Please click on the link below to see the website</p>
@@ -50,10 +62,10 @@ import logo192 from '../media/logo192.png';
               </div>
               
               <div className="grey lighten-3 box left-align col 12s l6 ">
-                           <h2>E-commerce Demo</h2>
+                           <h2>Next Project</h2>
          
-              <p>Please click on the link below to see the website</p>
-        <a href="https://pure-depths-67384.herokuapp.com/" target="_blank">e-commerce</a>
+              <p>Still working on the next project</p>
+        {/* <a href="https://pure-depths-67384.herokuapp.com/" target="_blank">link</a> */}
               </div>
 
           </div>

@@ -6,7 +6,7 @@ class Social extends Component{
       //code to activate tooltip message on hover
     document.addEventListener('DOMContentLoaded', function() {
       var elems = document.querySelectorAll('.tooltipped');
-      var instances = M.Tooltip.init(elems, {});
+       M.Tooltip.init(elems, {});
 
     });
 }
@@ -27,7 +27,10 @@ render(){
         <i class="fab fa-facebook"></i>
       </a></li>
       <li><a href="https://github.com/Herbertbhs02?tab=repositories" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="GitHub">
-      <i class="fab fa-link"></i>
+      <i class="fab fa-github"></i>
+    </a></li>
+    <li><a href="https://www.youtube.com/watch?v=LRRCWWoKgRo" target="_blank" class="tooltipped btn-floating btn-small indigo darken-4" data-tooltip="Youtube: CI/CD Pipeline demo in AWS">
+      <i class="fab fa-youtube"></i>
     </a></li>
       </ul>
     </div>
