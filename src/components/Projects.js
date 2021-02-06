@@ -1,6 +1,7 @@
 import React from 'react';
 import '../Style/projects.css';
 import logo192 from '../media/logo192.png';
+import Calculator from './Calculator'
 
  const Projects = ()=> {
   return (
@@ -62,9 +63,10 @@ import logo192 from '../media/logo192.png';
               </div>
               
               <div className="grey lighten-3 box left-align col 12s l6 ">
-                           <h5><b>Next Project</b></h5>
-              <p>Still working on the next project</p>
-        {/* <a href="https://pure-depths-67384.herokuapp.com/" target="_blank">link</a> */}
+                           <h5><b>A simple Calculator</b></h5>
+              <p>My first React Project!!</p>
+             <Calculator/>
+       
               </div>
 
           </div>
